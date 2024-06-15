@@ -143,9 +143,29 @@ namespace ER_InteractiveMap2.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Overworld {
+            get {
+                object obj = ResourceManager.GetObject("Overworld", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Register {
             get {
                 object obj = ResourceManager.GetObject("Register", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Underground {
+            get {
+                object obj = ResourceManager.GetObject("Underground", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

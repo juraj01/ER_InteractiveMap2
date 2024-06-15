@@ -47,6 +47,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="connectToMysql.cs" />
+    <Compile Include="MainMap_Overworld.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMap_Overworld.Designer.cs">
+      <DependentUpon>MainMap_Overworld.cs</DependentUpon>
+    </Compile>
     <Compile Include="Register.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,6 +81,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMap_Overworld.resx">
+      <DependentUpon>MainMap_Overworld.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MessageError.resx">
       <DependentUpon>MessageError.cs</DependentUpon>
@@ -196,6 +205,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Register.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Overworld.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Underground.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
