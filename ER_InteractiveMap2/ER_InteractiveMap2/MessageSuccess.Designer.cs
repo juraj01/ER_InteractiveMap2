@@ -1,4 +1,4 @@
-﻿namespace EldenRing___Interaktívna_mapa___Guna_UI
+﻿namespace ER_InteractiveMap2
 {
     partial class MessageSuccess
     {
@@ -31,8 +31,8 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MessageSuccess));
             this.UpperBorderPanel = new Guna.UI2.WinForms.Guna2Panel();
             this.MessageSuccessPanel = new Guna.UI2.WinForms.Guna2Panel();
-            this.ExitButton = new Guna.UI2.WinForms.Guna2ControlBox();
             this.MessageLabel = new System.Windows.Forms.Label();
+            this.ExitButton = new Guna.UI2.WinForms.Guna2ControlBox();
             this.Ok = new Guna.UI2.WinForms.Guna2Button();
             this.MessageSuccessPanel.SuspendLayout();
             this.SuspendLayout();
@@ -59,6 +59,18 @@
             this.MessageSuccessPanel.Size = new System.Drawing.Size(926, 167);
             this.MessageSuccessPanel.TabIndex = 2;
             // 
+            // MessageLabel
+            // 
+            this.MessageLabel.AutoSize = true;
+            this.MessageLabel.BackColor = System.Drawing.Color.Transparent;
+            this.MessageLabel.Font = new System.Drawing.Font("Garamond", 19F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.MessageLabel.ForeColor = System.Drawing.Color.DarkGoldenrod;
+            this.MessageLabel.Location = new System.Drawing.Point(410, 76);
+            this.MessageLabel.Name = "MessageLabel";
+            this.MessageLabel.Size = new System.Drawing.Size(139, 29);
+            this.MessageLabel.TabIndex = 3;
+            this.MessageLabel.Text = "Custom text";
+            // 
             // ExitButton
             // 
             this.ExitButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
@@ -73,19 +85,6 @@
             this.ExitButton.Name = "ExitButton";
             this.ExitButton.Size = new System.Drawing.Size(52, 31);
             this.ExitButton.TabIndex = 1;
-            // 
-            // MessageLabel
-            // 
-            this.MessageLabel.AutoSize = true;
-            this.MessageLabel.BackColor = System.Drawing.Color.Transparent;
-            this.MessageLabel.Font = new System.Drawing.Font("Garamond", 19F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.MessageLabel.ForeColor = System.Drawing.Color.DarkGoldenrod;
-            this.MessageLabel.Location = new System.Drawing.Point(410, 76);
-            this.MessageLabel.Name = "MessageLabel";
-            this.MessageLabel.Size = new System.Drawing.Size(139, 29);
-            this.MessageLabel.TabIndex = 3;
-            this.MessageLabel.Text = "Custom text";
-            
             // 
             // Ok
             // 
@@ -113,6 +112,7 @@
             this.Controls.Add(this.MessageSuccessPanel);
             this.Controls.Add(this.ExitButton);
             this.Controls.Add(this.UpperBorderPanel);
+            this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "MessageSuccess";

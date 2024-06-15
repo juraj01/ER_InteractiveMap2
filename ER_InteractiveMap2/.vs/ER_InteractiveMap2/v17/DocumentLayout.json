@@ -3,36 +3,48 @@
   "WorkspaceRootPath": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\er_interactivemap2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|solutionrelative:er_interactivemap2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|c:\\er_interactivemap2\\er_interactivemap2\\er_interactivemap2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\er_interactivemap2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|solutionrelative:er_interactivemap2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|c:\\er_interactivemap2\\er_interactivemap2\\er_interactivemap2\\messageerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|solutionrelative:er_interactivemap2\\messageerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|c:\\er_interactivemap2\\er_interactivemap2\\er_interactivemap2\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|solutionrelative:er_interactivemap2\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|c:\\er_interactivemap2\\er_interactivemap2\\er_interactivemap2\\messageerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|solutionrelative:er_interactivemap2\\messageerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|c:\\er_interactivemap2\\er_interactivemap2\\er_interactivemap2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|solutionrelative:er_interactivemap2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\er_interactivemap2\\connecttomysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|solutionrelative:er_interactivemap2\\connecttomysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|c:\\er_interactivemap2\\er_interactivemap2\\er_interactivemap2\\messagesuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|c:\\er_interactivemap2\\er_interactivemap2\\er_interactivemap2\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|solutionrelative:er_interactivemap2\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\er_interactivemap2\\messageerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|solutionrelative:er_interactivemap2\\messageerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\er_interactivemap2\\messagesuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|solutionrelative:er_interactivemap2\\messagesuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|c:\\er_interactivemap2\\er_interactivemap2\\er_interactivemap2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|solutionrelative:er_interactivemap2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\er_interactivemap2\\messageerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|solutionrelative:er_interactivemap2\\messageerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\er_interactivemap2\\messagesuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|solutionrelative:er_interactivemap2\\messagesuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|c:\\er_interactivemap2\\er_interactivemap2\\er_interactivemap2\\messagesuccess.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|solutionrelative:er_interactivemap2\\messagesuccess.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|c:\\er_interactivemap2\\er_interactivemap2\\er_interactivemap2\\messagesuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|solutionrelative:er_interactivemap2\\messagesuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|c:\\er_interactivemap2\\er_interactivemap2\\er_interactivemap2\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CB9EC46-7151-423C-ABFE-C07EC6D1179D}|ER_InteractiveMap2\\ER_InteractiveMap2.csproj|solutionrelative:er_interactivemap2\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,71 +58,46 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MessageSuccess.Designer.cs",
-              "DocumentMoniker": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\MessageSuccess.Designer.cs",
-              "RelativeDocumentMoniker": "ER_InteractiveMap2\\MessageSuccess.Designer.cs",
-              "ToolTip": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\MessageSuccess.Designer.cs",
-              "RelativeToolTip": "ER_InteractiveMap2\\MessageSuccess.Designer.cs",
-              "ViewState": "AQIAAG8AAAAAAAAAAAAowHwAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "ER_InteractiveMap2\\Login.Designer.cs",
+              "ToolTip": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\Login.Designer.cs",
+              "RelativeToolTip": "ER_InteractiveMap2\\Login.Designer.cs",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAowAMBAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T14:15:30.697Z",
+              "WhenOpened": "2024-06-15T15:34:22.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "MessageSuccess.cs",
-              "DocumentMoniker": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\MessageSuccess.cs",
-              "RelativeDocumentMoniker": "ER_InteractiveMap2\\MessageSuccess.cs",
-              "ToolTip": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\MessageSuccess.cs",
-              "RelativeToolTip": "ER_InteractiveMap2\\MessageSuccess.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAApAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\Program.cs",
+              "RelativeDocumentMoniker": "ER_InteractiveMap2\\Program.cs",
+              "ToolTip": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\Program.cs",
+              "RelativeToolTip": "ER_InteractiveMap2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T13:14:19.282Z",
+              "WhenOpened": "2024-06-15T15:24:01.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MessageSuccess.cs [Design]",
-              "DocumentMoniker": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\MessageSuccess.cs",
-              "RelativeDocumentMoniker": "ER_InteractiveMap2\\MessageSuccess.cs",
-              "ToolTip": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\MessageSuccess.cs [Design]",
-              "RelativeToolTip": "ER_InteractiveMap2\\MessageSuccess.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T13:08:50.596Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "connectToMysql.cs",
-              "DocumentMoniker": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\connectToMysql.cs",
-              "RelativeDocumentMoniker": "ER_InteractiveMap2\\connectToMysql.cs",
-              "ToolTip": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\connectToMysql.cs",
-              "RelativeToolTip": "ER_InteractiveMap2\\connectToMysql.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T12:42:34.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "MessageError.cs",
               "DocumentMoniker": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\MessageError.cs",
               "RelativeDocumentMoniker": "ER_InteractiveMap2\\MessageError.cs",
               "ToolTip": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\MessageError.cs",
               "RelativeToolTip": "ER_InteractiveMap2\\MessageError.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAABLAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T12:45:14.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "MessageError.cs [Design]",
               "DocumentMoniker": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\MessageError.cs",
               "RelativeDocumentMoniker": "ER_InteractiveMap2\\MessageError.cs",
@@ -122,20 +109,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "MessageSuccess.cs",
+              "DocumentMoniker": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\MessageSuccess.cs",
+              "RelativeDocumentMoniker": "ER_InteractiveMap2\\MessageSuccess.cs",
+              "ToolTip": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\MessageSuccess.cs",
+              "RelativeToolTip": "ER_InteractiveMap2\\MessageSuccess.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:14:19.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MessageSuccess.cs [Design]",
+              "DocumentMoniker": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\MessageSuccess.cs",
+              "RelativeDocumentMoniker": "ER_InteractiveMap2\\MessageSuccess.cs",
+              "ToolTip": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\MessageSuccess.cs [Design]",
+              "RelativeToolTip": "ER_InteractiveMap2\\MessageSuccess.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:08:50.596Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "connectToMysql.cs",
+              "DocumentMoniker": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\connectToMysql.cs",
+              "RelativeDocumentMoniker": "ER_InteractiveMap2\\connectToMysql.cs",
+              "ToolTip": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\connectToMysql.cs",
+              "RelativeToolTip": "ER_InteractiveMap2\\connectToMysql.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:42:34.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\Login.cs",
               "RelativeDocumentMoniker": "ER_InteractiveMap2\\Login.cs",
               "ToolTip": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\Login.cs",
               "RelativeToolTip": "ER_InteractiveMap2\\Login.cs",
-              "ViewState": "AQIAAKQAAAAAAAAAAAAYwLUAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T10:37:25.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\Login.cs",
               "RelativeDocumentMoniker": "ER_InteractiveMap2\\Login.cs",
@@ -143,6 +168,31 @@
               "RelativeToolTip": "ER_InteractiveMap2\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T10:37:17.374Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\Register.cs",
+              "RelativeDocumentMoniker": "ER_InteractiveMap2\\Register.cs",
+              "ToolTip": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\Register.cs",
+              "RelativeToolTip": "ER_InteractiveMap2\\Register.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvw8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:56:57.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\Register.cs",
+              "RelativeDocumentMoniker": "ER_InteractiveMap2\\Register.cs",
+              "ToolTip": "C:\\ER_InteractiveMap2\\ER_InteractiveMap2\\ER_InteractiveMap2\\Register.cs [Design]",
+              "RelativeToolTip": "ER_InteractiveMap2\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:56:21.062Z",
               "EditorCaption": " [Design]"
             }
           ]

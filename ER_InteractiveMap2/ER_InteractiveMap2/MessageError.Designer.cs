@@ -1,4 +1,4 @@
-﻿namespace EldenRing___Interaktívna_mapa___Guna_UI
+﻿namespace ER_InteractiveMap2
 {
     partial class MessageError
     {

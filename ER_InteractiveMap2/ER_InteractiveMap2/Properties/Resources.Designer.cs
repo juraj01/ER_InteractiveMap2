@@ -63,6 +63,16 @@ namespace ER_InteractiveMap2.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap App_Logo {
+            get {
+                object obj = ResourceManager.GetObject("App Logo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Exit___final_ {
             get {
                 object obj = ResourceManager.GetObject("Exit - final ", resourceCulture);
@@ -126,6 +136,16 @@ namespace ER_InteractiveMap2.Properties {
         internal static System.Drawing.Bitmap Minimalize___final {
             get {
                 object obj = ResourceManager.GetObject("Minimalize - final", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Register {
+            get {
+                object obj = ResourceManager.GetObject("Register", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

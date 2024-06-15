@@ -7,7 +7,7 @@ using MySql.Data.MySqlClient;
 using System.Drawing.Text;
 using Microsoft.Win32;
 
-namespace EldenRing___Interaktívna_mapa___Guna_UI
+namespace ER_InteractiveMap2
 {
     public partial class Login : Form
     {
@@ -163,7 +163,6 @@ namespace EldenRing___Interaktívna_mapa___Guna_UI
                     }
                     else
                     {
-                        //System.Windows.Forms.MessageBox.Show("Password doesn't match your username");
                         _Error = new MessageError();
                         _Error.Show();
                         _Error.ShowMessage("Password doesn't match your username");
@@ -171,7 +170,6 @@ namespace EldenRing___Interaktívna_mapa___Guna_UI
                 }
                 else
                 {
-                    //System.Windows.Forms.MessageBox.Show("Username doesn't exist");
                     _Error = new MessageError();
                     _Error.Show();
                     _Error.ShowMessage("Username doesn't exist");
@@ -181,27 +179,14 @@ namespace EldenRing___Interaktívna_mapa___Guna_UI
         private void RegisterButton_Click(object sender, EventArgs e)
         {
             Register register = new Register();
-            register.FormClosed += Register_FormClosed;
             register.Show();
             this.Hide();
+            register.FormClosed += Register_FormClosed;
         }
         private void Register_FormClosed(object sender, FormClosedEventArgs e)
         {
             this.Show();
         }
-        private void EmailTextBox_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-        private void PasswordTextBox_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-        private void NameTextBox_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
 
         private void UpperBorderPanel_MouseDown(object sender, MouseEventArgs e)
         {

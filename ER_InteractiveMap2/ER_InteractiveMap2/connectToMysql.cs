@@ -3,7 +3,7 @@ using Mysqlx.Crud;
 using System;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.ListView;
 
-namespace EldenRing___Interaktívna_mapa___Guna_UI
+namespace ER_InteractiveMap2
 {
     public class connecttomysql
     {

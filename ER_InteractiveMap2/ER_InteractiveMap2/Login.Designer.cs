@@ -1,4 +1,4 @@
-﻿namespace EldenRing___Interaktívna_mapa___Guna_UI
+﻿namespace ER_InteractiveMap2
 {
     partial class Login
     {
@@ -223,6 +223,7 @@
             this.LoginButton.TabIndex = 10;
             this.LoginButton.Text = "Login";
             this.LoginButton.UseTransparentBackground = true;
+            this.LoginButton.Click += new System.EventHandler(this.LoginButton_Click);
             // 
             // RegisterLabel
             // 
@@ -256,6 +257,7 @@
             this.RegisterButton.Size = new System.Drawing.Size(273, 35);
             this.RegisterButton.TabIndex = 13;
             this.RegisterButton.Text = "Registration";
+            this.RegisterButton.Click += new System.EventHandler(this.RegisterButton_Click);
             // 
             // Login
             // 

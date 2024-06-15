@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Drawing.Text;
 
-namespace EldenRing___Interaktívna_mapa___Guna_UI
+namespace ER_InteractiveMap2
 {
     public partial class MessageError : Form
     {
