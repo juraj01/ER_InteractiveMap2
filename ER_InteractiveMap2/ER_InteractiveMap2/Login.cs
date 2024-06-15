@@ -153,6 +153,7 @@ namespace EldenRing___Interaktívna_mapa___Guna_UI
                         //System.Windows.Forms.MessageBox.Show("Login was successfull");
                         _Success = new MessageSuccess();
                         _Success.Show();
+                        _Success.MessageLabel.Location = new Point(373, 71);
                         _Success.ShowMessage("Login was successfull");
                         //MainMenu mainMenu = new MainMenu();
                         this.Close();

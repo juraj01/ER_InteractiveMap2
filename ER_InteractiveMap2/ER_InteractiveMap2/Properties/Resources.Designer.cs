@@ -103,6 +103,16 @@ namespace ER_InteractiveMap2.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap map_text_background_region {
+            get {
+                object obj = ResourceManager.GetObject("map-text-background-region", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Maximalize___final {
             get {
                 object obj = ResourceManager.GetObject("Maximalize - final", resourceCulture);

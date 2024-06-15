@@ -47,6 +47,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="connectToMysql.cs" />
+    <Compile Include="MessageSuccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageSuccess.Designer.cs">
+      <DependentUpon>MessageSuccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageError.Designer.cs">
+      <DependentUpon>MessageError.cs</DependentUpon>
+    </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -57,6 +69,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageError.resx">
+      <DependentUpon>MessageError.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageSuccess.resx">
+      <DependentUpon>MessageSuccess.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -160,6 +178,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\map-text-background-location.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\map-text-background-region.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
