@@ -35,3 +35,4 @@ C:\ER_InteractiveMap2\ER_InteractiveMap2\ER_InteractiveMap2\bin\Debug\ZstdSharp.
 C:\ER_InteractiveMap2\ER_InteractiveMap2\ER_InteractiveMap2\obj\Debug\ER_Inter.C1EC19F0.Up2Date
 C:\ER_InteractiveMap2\ER_InteractiveMap2\ER_InteractiveMap2\obj\Debug\ER_InteractiveMap2.exe
 C:\ER_InteractiveMap2\ER_InteractiveMap2\ER_InteractiveMap2\obj\Debug\ER_InteractiveMap2.pdb
+C:\ER_InteractiveMap2\ER_InteractiveMap2\ER_InteractiveMap2\obj\Debug\ER_InteractiveMap2.MainMap_Overworld.resources

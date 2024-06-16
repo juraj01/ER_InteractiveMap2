@@ -73,9 +73,39 @@ namespace ER_InteractiveMap2.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Caelid_Main {
+            get {
+                object obj = ResourceManager.GetObject("Caelid Main", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Exit___final_ {
             get {
                 object obj = ResourceManager.GetObject("Exit - final ", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Limgrave_Main {
+            get {
+                object obj = ResourceManager.GetObject("Limgrave Main", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Liurnia_Main {
+            get {
+                object obj = ResourceManager.GetObject("Liurnia Main", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -166,6 +196,16 @@ namespace ER_InteractiveMap2.Properties {
         internal static System.Drawing.Bitmap Underground {
             get {
                 object obj = ResourceManager.GetObject("Underground", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Volcano_Manor_Main {
+            get {
+                object obj = ResourceManager.GetObject("Volcano Manor Main", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -212,5 +212,17 @@
   <ItemGroup>
     <None Include="Resources\Underground.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Limgrave Main.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Caelid Main.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Liurnia Main.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Volcano Manor Main.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
