@@ -63,6 +63,26 @@ namespace ER_InteractiveMap2.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Ainsel_River_Main {
+            get {
+                object obj = ResourceManager.GetObject("Ainsel River Main", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Altus_Plateau_Main {
+            get {
+                object obj = ResourceManager.GetObject("Altus Plateau Main", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap App_Logo {
             get {
                 object obj = ResourceManager.GetObject("App Logo", resourceCulture);
@@ -83,9 +103,29 @@ namespace ER_InteractiveMap2.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Crumbling_Farum_Azula_Main {
+            get {
+                object obj = ResourceManager.GetObject("Crumbling Farum Azula Main", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Exit___final_ {
             get {
                 object obj = ResourceManager.GetObject("Exit - final ", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Leyndell_Main {
+            get {
+                object obj = ResourceManager.GetObject("Leyndell Main", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -173,6 +213,26 @@ namespace ER_InteractiveMap2.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Miquella_s_Haligtree_Main {
+            get {
+                object obj = ResourceManager.GetObject("Miquella\'s Haligtree Main", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Mountaitops_of_the_Giants_Main {
+            get {
+                object obj = ResourceManager.GetObject("Mountaitops of the Giants Main", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Overworld {
             get {
                 object obj = ResourceManager.GetObject("Overworld", resourceCulture);
@@ -193,9 +253,29 @@ namespace ER_InteractiveMap2.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Siafra_River_Main {
+            get {
+                object obj = ResourceManager.GetObject("Siafra River Main", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Underground {
             get {
                 object obj = ResourceManager.GetObject("Underground", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap underground_compressed {
+            get {
+                object obj = ResourceManager.GetObject("underground-compressed", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

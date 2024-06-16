@@ -36,6 +36,12 @@
             this.CaelidButton = new Guna.UI2.WinForms.Guna2ImageButton();
             this.LiurniaButton = new Guna.UI2.WinForms.Guna2ImageButton();
             this.VolcanoButton = new Guna.UI2.WinForms.Guna2ImageButton();
+            this.AltusButton = new Guna.UI2.WinForms.Guna2ImageButton();
+            this.LeyndellButton = new Guna.UI2.WinForms.Guna2ImageButton();
+            this.MountaintopsButton = new Guna.UI2.WinForms.Guna2ImageButton();
+            this.MiquellaButton = new Guna.UI2.WinForms.Guna2ImageButton();
+            this.AzulaButton = new Guna.UI2.WinForms.Guna2ImageButton();
+            this.UndergroundButton = new Guna.UI2.WinForms.Guna2ImageButton();
             this.UpperBorderPanel.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -137,6 +143,90 @@
             this.VolcanoButton.Size = new System.Drawing.Size(64, 54);
             this.VolcanoButton.TabIndex = 6;
             // 
+            // AltusButton
+            // 
+            this.AltusButton.BackColor = System.Drawing.Color.Transparent;
+            this.AltusButton.CheckedState.ImageSize = new System.Drawing.Size(64, 64);
+            this.AltusButton.HoverState.ImageSize = new System.Drawing.Size(64, 64);
+            this.AltusButton.Image = global::ER_InteractiveMap2.Properties.Resources.Altus_Plateau_Main;
+            this.AltusButton.ImageOffset = new System.Drawing.Point(0, 0);
+            this.AltusButton.ImageRotate = 0F;
+            this.AltusButton.Location = new System.Drawing.Point(628, 496);
+            this.AltusButton.Name = "AltusButton";
+            this.AltusButton.PressedState.ImageSize = new System.Drawing.Size(64, 64);
+            this.AltusButton.Size = new System.Drawing.Size(64, 54);
+            this.AltusButton.TabIndex = 7;
+            // 
+            // LeyndellButton
+            // 
+            this.LeyndellButton.BackColor = System.Drawing.Color.Transparent;
+            this.LeyndellButton.CheckedState.ImageSize = new System.Drawing.Size(64, 64);
+            this.LeyndellButton.HoverState.ImageSize = new System.Drawing.Size(64, 64);
+            this.LeyndellButton.Image = global::ER_InteractiveMap2.Properties.Resources.Leyndell_Main;
+            this.LeyndellButton.ImageOffset = new System.Drawing.Point(0, 0);
+            this.LeyndellButton.ImageRotate = 0F;
+            this.LeyndellButton.Location = new System.Drawing.Point(806, 509);
+            this.LeyndellButton.Name = "LeyndellButton";
+            this.LeyndellButton.PressedState.ImageSize = new System.Drawing.Size(64, 64);
+            this.LeyndellButton.Size = new System.Drawing.Size(64, 54);
+            this.LeyndellButton.TabIndex = 8;
+            // 
+            // MountaintopsButton
+            // 
+            this.MountaintopsButton.BackColor = System.Drawing.Color.Transparent;
+            this.MountaintopsButton.CheckedState.ImageSize = new System.Drawing.Size(64, 64);
+            this.MountaintopsButton.HoverState.ImageSize = new System.Drawing.Size(64, 64);
+            this.MountaintopsButton.Image = global::ER_InteractiveMap2.Properties.Resources.Mountaitops_of_the_Giants_Main;
+            this.MountaintopsButton.ImageOffset = new System.Drawing.Point(0, 0);
+            this.MountaintopsButton.ImageRotate = 0F;
+            this.MountaintopsButton.Location = new System.Drawing.Point(980, 557);
+            this.MountaintopsButton.Name = "MountaintopsButton";
+            this.MountaintopsButton.PressedState.ImageSize = new System.Drawing.Size(64, 64);
+            this.MountaintopsButton.Size = new System.Drawing.Size(64, 54);
+            this.MountaintopsButton.TabIndex = 9;
+            // 
+            // MiquellaButton
+            // 
+            this.MiquellaButton.BackColor = System.Drawing.Color.Transparent;
+            this.MiquellaButton.CheckedState.ImageSize = new System.Drawing.Size(64, 64);
+            this.MiquellaButton.HoverState.ImageSize = new System.Drawing.Size(64, 64);
+            this.MiquellaButton.Image = global::ER_InteractiveMap2.Properties.Resources.Miquella_s_Haligtree_Main;
+            this.MiquellaButton.ImageOffset = new System.Drawing.Point(0, 0);
+            this.MiquellaButton.ImageRotate = 0F;
+            this.MiquellaButton.Location = new System.Drawing.Point(935, 66);
+            this.MiquellaButton.Name = "MiquellaButton";
+            this.MiquellaButton.PressedState.ImageSize = new System.Drawing.Size(64, 64);
+            this.MiquellaButton.Size = new System.Drawing.Size(64, 54);
+            this.MiquellaButton.TabIndex = 10;
+            // 
+            // AzulaButton
+            // 
+            this.AzulaButton.BackColor = System.Drawing.Color.Transparent;
+            this.AzulaButton.CheckedState.ImageSize = new System.Drawing.Size(64, 64);
+            this.AzulaButton.HoverState.ImageSize = new System.Drawing.Size(64, 64);
+            this.AzulaButton.Image = global::ER_InteractiveMap2.Properties.Resources.Crumbling_Farum_Azula_Main;
+            this.AzulaButton.ImageOffset = new System.Drawing.Point(0, 0);
+            this.AzulaButton.ImageRotate = 0F;
+            this.AzulaButton.Location = new System.Drawing.Point(1642, 592);
+            this.AzulaButton.Name = "AzulaButton";
+            this.AzulaButton.PressedState.ImageSize = new System.Drawing.Size(64, 64);
+            this.AzulaButton.Size = new System.Drawing.Size(64, 54);
+            this.AzulaButton.TabIndex = 11;
+            // 
+            // UndergroundButton
+            // 
+            this.UndergroundButton.BackColor = System.Drawing.Color.Transparent;
+            this.UndergroundButton.CheckedState.ImageSize = new System.Drawing.Size(64, 64);
+            this.UndergroundButton.HoverState.ImageSize = new System.Drawing.Size(64, 64);
+            this.UndergroundButton.Image = global::ER_InteractiveMap2.Properties.Resources.underground_compressed;
+            this.UndergroundButton.ImageOffset = new System.Drawing.Point(0, 0);
+            this.UndergroundButton.ImageRotate = 0F;
+            this.UndergroundButton.Location = new System.Drawing.Point(1697, 918);
+            this.UndergroundButton.Name = "UndergroundButton";
+            this.UndergroundButton.PressedState.ImageSize = new System.Drawing.Size(64, 64);
+            this.UndergroundButton.Size = new System.Drawing.Size(140, 103);
+            this.UndergroundButton.TabIndex = 12;
+            // 
             // MainMap_Overworld
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -145,6 +235,12 @@
             this.BackgroundImage = global::ER_InteractiveMap2.Properties.Resources.Overworld;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1920, 1080);
+            this.Controls.Add(this.UndergroundButton);
+            this.Controls.Add(this.AzulaButton);
+            this.Controls.Add(this.MiquellaButton);
+            this.Controls.Add(this.MountaintopsButton);
+            this.Controls.Add(this.LeyndellButton);
+            this.Controls.Add(this.AltusButton);
             this.Controls.Add(this.VolcanoButton);
             this.Controls.Add(this.LiurniaButton);
             this.Controls.Add(this.CaelidButton);
@@ -174,5 +270,11 @@
         private Guna.UI2.WinForms.Guna2ImageButton CaelidButton;
         private Guna.UI2.WinForms.Guna2ImageButton LiurniaButton;
         private Guna.UI2.WinForms.Guna2ImageButton VolcanoButton;
+        private Guna.UI2.WinForms.Guna2ImageButton AltusButton;
+        private Guna.UI2.WinForms.Guna2ImageButton LeyndellButton;
+        private Guna.UI2.WinForms.Guna2ImageButton MountaintopsButton;
+        private Guna.UI2.WinForms.Guna2ImageButton MiquellaButton;
+        private Guna.UI2.WinForms.Guna2ImageButton AzulaButton;
+        private Guna.UI2.WinForms.Guna2ImageButton UndergroundButton;
     }
 }
