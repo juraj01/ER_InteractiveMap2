@@ -72,6 +72,7 @@
             this.ExitButton.PressedColor = System.Drawing.Color.FromArgb(((int)(((byte)(75)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.ExitButton.Size = new System.Drawing.Size(45, 29);
             this.ExitButton.TabIndex = 1;
+            this.ExitButton.Click += new System.EventHandler(this.ExitButton_Click);
             // 
             // LimgraveButton
             // 
@@ -226,6 +227,7 @@
             this.UndergroundButton.PressedState.ImageSize = new System.Drawing.Size(64, 64);
             this.UndergroundButton.Size = new System.Drawing.Size(140, 103);
             this.UndergroundButton.TabIndex = 12;
+            this.UndergroundButton.Click += new System.EventHandler(this.UndergroundButton_Click);
             // 
             // MainMap_Overworld
             // 

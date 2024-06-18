@@ -21,6 +21,7 @@ namespace ER_InteractiveMap2
         {
             InitializeComponent();
             InitializeButtons();
+            InitializeEventHandlers();
         }
 
         private void InitializeEventHandlers()
@@ -29,8 +30,6 @@ namespace ER_InteractiveMap2
             this.UpperBorderPanel.MouseDown += UpperBorderPanel_MouseDown;
             this.UpperBorderPanel.MouseMove += UpperBorderPanel_MouseMove;
             this.UpperBorderPanel.MouseUp += UpperBorderPanel_MouseUp;
-
-            //this.UndergroundButton.Click += UndergroundButton_Click;
 
         }
 
@@ -117,18 +116,13 @@ namespace ER_InteractiveMap2
             this.AzulaButton.MouseDown += ImageButton_MouseDown;
             this.AzulaButton.MouseUp += ImageButton_MouseUp;
 
-            this.UndergroundButton.Location = new Point(1721, 885);
-            this.UndergroundButton.Size = new Size(182, 185);
+            this.UndergroundButton.Location = new Point(1721, 895);
+            this.UndergroundButton.Size = new Size(182, 175);
             this.UndergroundButton.ImageSize = this.UndergroundButton.Size;
             this.UndergroundButton.HoverState.ImageSize = this.UndergroundButton.Size;
             this.UndergroundButton.PressedState.ImageSize= this.UndergroundButton.Size;
             this.UndergroundButton.MouseDown += UndergroundButton_MouseDown;
             this.UndergroundButton.MouseUp += UndergroundButton_MouseUp;
-            
-
-            /*this.OverworldButton.Location = new Point(1721, 17);
-            this.OverworldButton.Size = new Size(182, 175);
-            this.OverworldButton.ImageSize = this.OverworldButton.Size;*/
         }
 
         private void UndergroundButton_MouseDown(object sender, MouseEventArgs e)
@@ -207,6 +201,18 @@ namespace ER_InteractiveMap2
                 isButtonPressed = false;
                 button.BackColor = Color.Transparent;
             }
+        }
+
+        private void UndergroundButton_Click(object sender, EventArgs e)
+        {
+            Program.underground.Show();
+            this.Hide();
+        }
+
+        private void ExitButton_Click(object sender, EventArgs e)
+        {
+            Program.overworld.Close();
+            Program.underground.Close();
         }
     }
 }

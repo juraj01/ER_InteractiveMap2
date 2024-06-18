@@ -47,6 +47,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="connectToMysql.cs" />
+    <Compile Include="Limgrave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Limgrave.Designer.cs">
+      <DependentUpon>Limgrave.cs</DependentUpon>
+    </Compile>
     <Compile Include="MainMap_Underground.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -85,6 +91,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Limgrave.resx">
+      <DependentUpon>Limgrave.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
@@ -256,6 +265,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Ainsel River Main1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Deeproot Depths Main1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Limgrave Usable1.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

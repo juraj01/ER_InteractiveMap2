@@ -113,6 +113,16 @@ namespace ER_InteractiveMap2.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Deeproot_Depths_Main {
+            get {
+                object obj = ResourceManager.GetObject("Deeproot Depths Main", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Exit___final_ {
             get {
                 object obj = ResourceManager.GetObject("Exit - final ", resourceCulture);
@@ -136,6 +146,16 @@ namespace ER_InteractiveMap2.Properties {
         internal static System.Drawing.Bitmap Limgrave_Main {
             get {
                 object obj = ResourceManager.GetObject("Limgrave Main", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Limgrave_Usable {
+            get {
+                object obj = ResourceManager.GetObject("Limgrave Usable", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

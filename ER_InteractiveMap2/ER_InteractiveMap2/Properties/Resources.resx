@@ -121,8 +121,8 @@
   <data name="map-text-background-location" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\map-text-background-location.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Maximalize - final" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Maximalize - final.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Liurnia Main" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Liurnia Main.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Register" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Register.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -135,6 +135,9 @@
   </data>
   <data name="Underground" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Underground.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ainsel River Main" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ainsel River Main1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Caelid Main" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Caelid Main.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -151,6 +154,9 @@
   <data name="Altus Plateau Main" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Altus Plateau Main.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Deeproot Depths Main" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Deeproot Depths Main1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Crumbling Farum Azula Main" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Crumbling Farum Azula Main.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -165,6 +171,9 @@
   </data>
   <data name="Volcano Manor Main" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Volcano Manor Main.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Maximalize - final" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Maximalize - final.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="underground-compressed" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\underground-compressed.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -181,10 +190,7 @@
   <data name="Login" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Login.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Liurnia Main" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Liurnia Main.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Ainsel River Main" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ainsel River Main1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Limgrave Usable" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Limgrave Usable1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

@@ -34,6 +34,8 @@
             this.MinimizeButton = new Guna.UI2.WinForms.Guna2ControlBox();
             this.SiofraButton = new Guna.UI2.WinForms.Guna2ImageButton();
             this.AinselButton = new Guna.UI2.WinForms.Guna2ImageButton();
+            this.DeeprootButton = new Guna.UI2.WinForms.Guna2ImageButton();
+            this.OverworldButton = new Guna.UI2.WinForms.Guna2ImageButton();
             this.SuspendLayout();
             // 
             // UpperBorderPanel
@@ -58,6 +60,7 @@
             this.ExitButton.Name = "ExitButton";
             this.ExitButton.Size = new System.Drawing.Size(45, 29);
             this.ExitButton.TabIndex = 1;
+            this.ExitButton.Click += new System.EventHandler(this.ExitButton_Click);
             // 
             // MinimizeButton
             // 
@@ -104,6 +107,37 @@
             this.AinselButton.Size = new System.Drawing.Size(200, 215);
             this.AinselButton.TabIndex = 4;
             // 
+            // DeeprootButton
+            // 
+            this.DeeprootButton.BackColor = System.Drawing.Color.Transparent;
+            this.DeeprootButton.CheckedState.ImageSize = new System.Drawing.Size(64, 64);
+            this.DeeprootButton.HoverState.ImageSize = new System.Drawing.Size(64, 64);
+            this.DeeprootButton.Image = global::ER_InteractiveMap2.Properties.Resources.Deeproot_Depths_Main;
+            this.DeeprootButton.ImageOffset = new System.Drawing.Point(0, 0);
+            this.DeeprootButton.ImageRotate = 0F;
+            this.DeeprootButton.ImageSize = new System.Drawing.Size(110, 145);
+            this.DeeprootButton.Location = new System.Drawing.Point(840, 334);
+            this.DeeprootButton.Name = "DeeprootButton";
+            this.DeeprootButton.PressedState.ImageSize = new System.Drawing.Size(64, 64);
+            this.DeeprootButton.Size = new System.Drawing.Size(120, 150);
+            this.DeeprootButton.TabIndex = 5;
+            // 
+            // OverworldButton
+            // 
+            this.OverworldButton.BackColor = System.Drawing.Color.Transparent;
+            this.OverworldButton.CheckedState.ImageSize = new System.Drawing.Size(64, 64);
+            this.OverworldButton.HoverState.ImageSize = new System.Drawing.Size(64, 64);
+            this.OverworldButton.Image = global::ER_InteractiveMap2.Properties.Resources.Overworld;
+            this.OverworldButton.ImageOffset = new System.Drawing.Point(0, 0);
+            this.OverworldButton.ImageRotate = 0F;
+            this.OverworldButton.ImageSize = new System.Drawing.Size(182, 175);
+            this.OverworldButton.Location = new System.Drawing.Point(1721, 50);
+            this.OverworldButton.Name = "OverworldButton";
+            this.OverworldButton.PressedState.ImageSize = new System.Drawing.Size(64, 64);
+            this.OverworldButton.Size = new System.Drawing.Size(182, 175);
+            this.OverworldButton.TabIndex = 6;
+            this.OverworldButton.Click += new System.EventHandler(this.OverworldButton_Click);
+            // 
             // MainMap_Underground
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -112,6 +146,8 @@
             this.BackgroundImage = global::ER_InteractiveMap2.Properties.Resources.Underground;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.ClientSize = new System.Drawing.Size(1920, 1080);
+            this.Controls.Add(this.OverworldButton);
+            this.Controls.Add(this.DeeprootButton);
             this.Controls.Add(this.AinselButton);
             this.Controls.Add(this.SiofraButton);
             this.Controls.Add(this.MinimizeButton);
@@ -122,7 +158,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "MainMap_Underground";
-            this.Text = "Form1";
+            this.Text = "Underground";
             this.ResumeLayout(false);
 
         }
@@ -134,5 +170,7 @@
         private Guna.UI2.WinForms.Guna2ControlBox MinimizeButton;
         private Guna.UI2.WinForms.Guna2ImageButton SiofraButton;
         private Guna.UI2.WinForms.Guna2ImageButton AinselButton;
+        private Guna.UI2.WinForms.Guna2ImageButton DeeprootButton;
+        private Guna.UI2.WinForms.Guna2ImageButton OverworldButton;
     }
 }

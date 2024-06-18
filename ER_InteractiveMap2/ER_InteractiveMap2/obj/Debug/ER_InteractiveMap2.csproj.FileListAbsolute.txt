@@ -36,3 +36,4 @@ C:\ER_InteractiveMap2\ER_InteractiveMap2\ER_InteractiveMap2\obj\Debug\ER_Inter.C
 C:\ER_InteractiveMap2\ER_InteractiveMap2\ER_InteractiveMap2\obj\Debug\ER_InteractiveMap2.exe
 C:\ER_InteractiveMap2\ER_InteractiveMap2\ER_InteractiveMap2\obj\Debug\ER_InteractiveMap2.pdb
 C:\ER_InteractiveMap2\ER_InteractiveMap2\ER_InteractiveMap2\obj\Debug\ER_InteractiveMap2.MainMap_Overworld.resources
+C:\ER_InteractiveMap2\ER_InteractiveMap2\ER_InteractiveMap2\obj\Debug\ER_InteractiveMap2.MainMap_Underground.resources
